@@ -1,0 +1,28 @@
+上海市人口发展特征及空间优化策略
+陈星，周文娜，王周杨
+摘要：存量背景下人口发展和城市建设之间的关系越来越受到学者们关注。人口的布局特征对于城市空间
+结构、产业发展、交通发展、设施配置等具有重要影响。本文结合多源数据对上海市人口进行研究，从人
+口规模、老龄人口、人才发展、就业空间、设施配置、住房水平等方面进行了评估。针对上海市人口空间
+布局优化提出了强化功能升级，优化城乡体系人口布局；重点加强住宅规模保障，服务多元人口需求；优
+化就业结构和产业结构，提升城市能级等对策。
+关键词：人口，空间分布，优化策略，上海
+Study on the characteristics of population development and spatial optimization
+strategy in Shanghai
+Abstract:The relationship between population development and urban construction under the background of
+stock has attracted more and more scholars'attention.The distribution of population has an important impact on
+urban spatial structure,industrial development,transportation development and facility allocation.Based on
+multi-source data,this paper studies the population of Shanghai,and evaluates the population size,aging
+population,talent development,employment space,facility allocation,housing level and other aspects.In view of
+the optimization of population spatial distribution in Shanghai,the author puts forward strengthening function
+upgrading and optimizing population distribution in urban and rural system.Focus on strengthening the guarantee
+of housing scale to serve the needs of diverse population;Optimize the employment structure and industrial
+structure,promote the level of the city and other countermeasures.
+Keywords:Population,Spatial distribution,Optimization strategy,Shanghai
+0引言
+随着我国城镇化的快速发展，人口在城市空间快速集聚，人口在空间上的合理布局是城
+市空间结构优化的重要内容。建设用地规模目标的锁定倒逼城市增长模式的转变，人口在空
+间上的结构优化成为城市发展的重要议题。超大城市、特大城市的城市中心人口集聚，给城
+市带来了资源、交通、住房等方面的压力。疏解中心城压力，促进新城发展是城市空间发展
+的重要思路[1]。《上海市城市总体规划（2017-2035）》（以下简称“上海2035”）中对人
+口规模、结构优化和布局优化等方面提出了新的要求，对新城的人口规模和密度也提出了指
+引。
